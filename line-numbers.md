@@ -6,7 +6,7 @@
 #### 6
 #### 7 some words 
 #### 8
-#### 9 git is really awesome 
+#### 9 git is really awesome! 
 #### 10
 #### 11
 #### 12
